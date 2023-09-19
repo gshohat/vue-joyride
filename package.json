@@ -1,0 +1,43 @@
+{
+  "name": "vue-joyride",
+  "version": "1.0.0",
+  "author": "Gilad Shohat",
+  "description": "Create guided tours for your apps",
+  "homepage": "https://github.com/gshohat/vue-joyride#readme",
+  "license": "MIT",
+  "main": "./dist/joyride.umd.js",
+  "module": "./dist/joyride.es.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/joyride.es.js",
+      "require": "./dist/joyride.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "path": "^0.12.7",
+    "vite": "^4.4.6"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "component",
+    "vue-component",
+    "tooltips",
+    "joyride",
+    "walkthroughs",
+    "tour"
+  ]
+}
