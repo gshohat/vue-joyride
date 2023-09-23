@@ -4,7 +4,7 @@
 
 **Lightweight** [Vue](https://vuejs.org/) component to explain new features of your app **< 5k** 😎 <br>
 
-
+![joyride](https://github.com/gshohat/vue-joyride/assets/91323932/31216a57-a0d0-477f-936d-a5d3a7e03737)
 
 ## Usage
 
