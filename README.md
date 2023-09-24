@@ -4,7 +4,7 @@
 
 **Lightweight** tooltip component to explain new features of your [Vue](https://vuejs.org/) app **< 10k** 😎 <br>
 
-![joyride](https://github.com/gshohat/vue-joyride/assets/91323932/4f98cf82-0f5d-425d-9c56-78abc4b7c8b2)
+![joyride](https://github.com/gshohat/vue-joyride/assets/91323932/9bfc2373-7a56-41e7-9b41-82a15c64f9b7)
 
 ## Usage
 
